@@ -1,7 +1,7 @@
 .cvcv{
     width: 1880px;
     height: 1000px;
-    background-image: url(./img/trav.png) ,url(./img/lamp.png) ,url(./img/esh.webp) ,url(./img/ponch.png) ,url(./img/dom.jpg);
+    background-image: url(./img/trav.png) ,url(./img/ponch.png) ,url(./img/esh.webp) , url(./img/lamp.png) ,url(./img/dom.jpg);
     background-repeat: repeat-x , repeat-y , repeat-y , repeat-x , no-repeat ;
     background-color:green ;
     background-size: 500px , 90px , 90px , 90px , 700px;
@@ -9,3 +9,4 @@
 
 }
 
+url(./img/lamp.png)       url(./img/ponch.png)
